@@ -1,0 +1,6 @@
+*.git
+*__pycache__*
+4DGaussians/output
+lang-segment-anything/input
+lang-segment-anything/output
+data
