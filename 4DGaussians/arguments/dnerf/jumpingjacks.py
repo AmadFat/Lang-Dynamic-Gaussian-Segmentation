@@ -1,5 +1,10 @@
 _base_ = './dnerf_default.py'
 
+OptimizationParams = dict(
+    coarse_iterations = 0,
+    iterations = 20000,
+)
+
 ModelHiddenParams = dict(
     kplanes_config = {
      'grid_dimensions': 2,

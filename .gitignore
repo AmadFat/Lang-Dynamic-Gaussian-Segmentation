@@ -4,3 +4,6 @@
 lang-segment-anything/input
 lang-segment-anything/output
 data
+videos/*.mp4
+*.egg-info
+4D-Rotor-Gaussians
